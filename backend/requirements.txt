@@ -6,4 +6,5 @@ sdv
 pandas
 scikit-learn
 numpy
-reportlabpython-dotenv
+reportlab
+python-dotenv
